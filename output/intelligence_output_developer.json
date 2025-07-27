@@ -1,0 +1,416 @@
+{
+  "persona": "developer",
+  "task": "summary",
+  "stats": {
+    "total_documents": 3,
+    "total_sections": 654,
+    "average_section_length": 953.38,
+    "documents": [
+      "system-design-interview-an-insiders-guide-volume-1.pdf",
+      "Linkedin_Posts_2024_Blue.pdf",
+      "SystemDesignInterview.pdf"
+    ]
+  },
+  "top_ranked_sections": [
+    {
+      "document": "system-design-interview-an-insiders-guide-volume-1.pdf",
+      "section": "SWIFT payment network",
+      "page": 78,
+      "summary": "You probably heard about 𝐒𝐖𝐈𝐅𝐓. What is SWIFT?",
+      "keywords": [
+        "transfer details",
+        "UAK/UNK",
+        "Step 7: Regional Processor B stores",
+        "input message validation",
+        "the world’s banks",
+        "What",
+        "answers"
+      ],
+      "relevance_score": 0.5337,
+      "importance_score": 0.75,
+      "combined_score": 0.9141,
+      "norm_relevance": 0.8773,
+      "norm_importance": 1.0
+    },
+    {
+      "document": "system-design-interview-an-insiders-guide-volume-1.pdf",
+      "section": "Money movement",
+      "page": 120,
+      "summary": "One picture is worth more than a thousand words. This is what happens when you buy a product using Paypal/bank card under the hood.",
+      "keywords": [
+        "𝐬𝐞𝐭𝐭𝐥𝐞𝐦𝐞𝐧𝐭. Clearing",
+        "1.5 & 1.6 The clearing institution",
+        "the payment instructions",
+        "2.4 & 2.5 The clearing institution",
+        "actual money movement",
+        "Bank C’s reserve",
+        "money"
+      ],
+      "relevance_score": 0.5269,
+      "importance_score": 0.75,
+      "combined_score": 0.9062,
+      "norm_relevance": 0.866,
+      "norm_importance": 1.0
+    },
+    {
+      "document": "system-design-interview-an-insiders-guide-volume-1.pdf",
+      "section": "System Design",
+      "page": 2,
+      "summary": "What are database isolation levels? What are they used for?",
+      "keywords": [
+        "globally unique IDs",
+        "flow",
+        "modern browsers",
+        "Domain Name System",
+        "file storage",
+        "87 Foreign exchange",
+        "nearby restaurants"
+      ],
+      "relevance_score": 0.5033,
+      "importance_score": 0.75,
+      "combined_score": 0.8791,
+      "norm_relevance": 0.8272,
+      "norm_importance": 1.0
+    },
+    {
+      "document": "SystemDesignInterview.pdf",
+      "section": "Video uploading flow",
+      "page": 223,
+      "summary": "Figure 14-4 shows the high-level design for the video uploading. It consists of the following components: • User: A user watches YouTube on devices such as a computer, mobile phone, or smart TV.",
+      "keywords": [
+        "A Binary Large Object",
+        "parallel",
+        "the high-level design",
+        "metadata cache",
+        "the actual video",
+        "Metadata DB",
+        "Load balancer"
+      ],
+      "relevance_score": 0.481,
+      "importance_score": 0.75,
+      "combined_score": 0.8533,
+      "norm_relevance": 0.7905,
+      "norm_importance": 1.0
+    },
+    {
+      "document": "Linkedin_Posts_2024_Blue.pdf",
+      "section": "Key Use Cases for Load Balancers",
+      "page": 35,
+      "summary": "The diagram below shows top 6 use cases where we use a load balancer. ●​ Traffic Distribution ​ Load balancers evenly distribute incoming traffic among multiple servers, preventing any single server from becoming overwhelmed.",
+      "keywords": [
+        "​ Health Monitoring ​ Load balancers",
+        "uninterrupted service",
+        "performance",
+        "the health",
+        "websites",
+        "Additional servers",
+        "subsequent requests"
+      ],
+      "relevance_score": 0.479,
+      "importance_score": 0.75,
+      "combined_score": 0.8511,
+      "norm_relevance": 0.7873,
+      "norm_importance": 1.0
+    },
+    {
+      "document": "system-design-interview-an-insiders-guide-volume-1.pdf",
+      "section": "Stock exchange design",
+      "page": 152,
+      "summary": "The stock market has been volatile recently. Coincidentally, we just finished a new chapter “Design a stock exchange”.",
+      "keywords": [
+        "The focus",
+        "rules",
+        "execution result",
+        "the risk manager",
+        "plain English",
+        "the order manager",
+        "Brokers"
+      ],
+      "relevance_score": 0.4784,
+      "importance_score": 0.75,
+      "combined_score": 0.8504,
+      "norm_relevance": 0.7863,
+      "norm_importance": 1.0
+    },
+    {
+      "document": "Linkedin_Posts_2024_Blue.pdf",
+      "section": "2024 by Postman.",
+      "page": 354,
+      "summary": "These learnings can be put into three major buckets: API Development Toolkit - API workflows are a critical requirement to build real-world applications. Postman Flows enables developers to automate API workflow visually without writing any code.",
+      "keywords": [
+        "a delightful API experience",
+        "Time",
+        "modern API development",
+        "your APIs",
+        "a cross-functional effort",
+        "a crucial parameter",
+        "any code"
+      ],
+      "relevance_score": 0.4746,
+      "importance_score": 0.75,
+      "combined_score": 0.846,
+      "norm_relevance": 0.78,
+      "norm_importance": 1.0
+    },
+    {
+      "document": "Linkedin_Posts_2024_Blue.pdf",
+      "section": "Introduction",
+      "page": 1,
+      "summary": "The following books are available in paperback on Amazon: Big Endian vs Little Endian​ 7 How do we incorporate Event Sourcing into the systems?​ 9",
+      "keywords": [
+        "A Primer​",
+        "the Fantastic Four",
+        "data?​ 143 Postman",
+        "System",
+        "Pagination",
+        "Spiral Model",
+        "database"
+      ],
+      "relevance_score": 0.4723,
+      "importance_score": 0.75,
+      "combined_score": 0.8434,
+      "norm_relevance": 0.7762,
+      "norm_importance": 1.0
+    },
+    {
+      "document": "Linkedin_Posts_2024_Blue.pdf",
+      "section": "Best ways to test system functionality",
+      "page": 123,
+      "summary": "Testing system functionality is a crucial step in software development and engineering processes. It ensures that a system or software application performs as expected, meets user requirements, and operates reliably.",
+      "keywords": [
+        "performance",
+        "Automates",
+        "error conditions",
+        "software",
+        "different system parts",
+        "software development",
+        "a crucial step"
+      ],
+      "relevance_score": 0.4847,
+      "importance_score": 0.7185,
+      "combined_score": 0.8377,
+      "norm_relevance": 0.7967,
+      "norm_importance": 0.9335
+    },
+    {
+      "document": "Linkedin_Posts_2024_Blue.pdf",
+      "section": "What is k8s (Kubernetes)?",
+      "page": 298,
+      "summary": "k8s is a container orchestration system. It is used for container deployment and management.",
+      "keywords": [
+        "pods",
+        "node",
+        "Pods",
+        "Its design",
+        "Google’s internal system",
+        "the cluster",
+        "3. Controller Manager"
+      ],
+      "relevance_score": 0.4666,
+      "importance_score": 0.75,
+      "combined_score": 0.8369,
+      "norm_relevance": 0.7669,
+      "norm_importance": 1.0
+    },
+    {
+      "document": "Linkedin_Posts_2024_Blue.pdf",
+      "section": "Git Merge vs. Rebase vs.Squash Commit!",
+      "page": 56,
+      "summary": "What are the differences? When we 𝐦𝐞𝐫𝐠𝐞 𝐜𝐡𝐚𝐧𝐠𝐞𝐬 from one Git branch to another, we can use ‘git merge’ or ‘git rebase’.",
+      "keywords": [
+        "𝐆𝐢𝐭 𝐑𝐞𝐛𝐚𝐬𝐞 Git rebase",
+        "new commits E",
+        "main",
+        "the feature branch histories",
+        "public branches",
+        "another",
+        "What"
+      ],
+      "relevance_score": 0.5378,
+      "importance_score": 0.6165,
+      "combined_score": 0.8343,
+      "norm_relevance": 0.884,
+      "norm_importance": 0.7184
+    },
+    {
+      "document": "Linkedin_Posts_2024_Blue.pdf",
+      "section": "How does Garbage Collection work?",
+      "page": 328,
+      "summary": ". Garbage collection is an automatic memory management feature used in programming languages to reclaim memory no longer used by the program. 🔹",
+      "keywords": [
+        "4. G1",
+        "several garbage collectors",
+        "the \"Throughput Collector",
+        "the-world",
+        "memory",
+        "reference counting",
+        "the program"
+      ],
+      "relevance_score": 0.4631,
+      "importance_score": 0.75,
+      "combined_score": 0.8328,
+      "norm_relevance": 0.7611,
+      "norm_importance": 1.0
+    },
+    {
+      "document": "Linkedin_Posts_2024_Blue.pdf",
+      "section": "A Roadmap for Full-Stack Development.",
+      "page": 311,
+      "summary": "A full-stack developer needs to be proficient in a wide range of technologies and tools across different areas of software development. Here’s a comprehensive look at the technical stacks required for a full-stack developer. 🔹",
+      "keywords": [
+        "Cloud Computing Cloud computing",
+        "the infrastructure",
+        "experience",
+        "tools",
+        "continuous integration/continuous delivery",
+        "technologies",
+        "software development"
+      ],
+      "relevance_score": 0.4617,
+      "importance_score": 0.75,
+      "combined_score": 0.8312,
+      "norm_relevance": 0.7589,
+      "norm_importance": 1.0
+    },
+    {
+      "document": "SystemDesignInterview.pdf",
+      "section": "Single server setup",
+      "page": 6,
+      "summary": "A journey of a thousand miles begins with a single step, and building a complex system is no different. To start with something simple, everything is running on a single server.",
+      "keywords": [
+        "d =",
+        "cache",
+        "websites",
+        "the Domain Name System",
+        "a single server setup",
+        "a combination",
+        "the communication protocol"
+      ],
+      "relevance_score": 0.4586,
+      "importance_score": 0.75,
+      "combined_score": 0.8276,
+      "norm_relevance": 0.7537,
+      "norm_importance": 1.0
+    },
+    {
+      "document": "system-design-interview-an-insiders-guide-volume-1.pdf",
+      "section": "DevOps Books",
+      "page": 59,
+      "summary": "Some 𝐃𝐞𝐯𝐎𝐩𝐬 books I find enlightening: 🔹Accelerate - presents both the findings and the science behind measuring software delivery performance. 'Continuous Delivery - introduces automated architecture management and data migration.",
+      "keywords": [
+        "IT work",
+        "a system",
+        "information security",
+        "software",
+        "Google’s development",
+        "monitoring",
+        "manufacturing plant work"
+      ],
+      "relevance_score": 0.4767,
+      "importance_score": 0.7165,
+      "combined_score": 0.8273,
+      "norm_relevance": 0.7835,
+      "norm_importance": 0.9293
+    },
+    {
+      "document": "Linkedin_Posts_2024_Blue.pdf",
+      "section": "How do Search Engines really Work?",
+      "page": 356,
+      "summary": ". . The diagram below shows a high-level walk-through of a search engine.",
+      "keywords": [
+        "videos",
+        "the most relevant results",
+        "various factors",
+        "These algorithms",
+        "complex algorithms",
+        "▶️ Step 4 - Querying",
+        "pages' relevance"
+      ],
+      "relevance_score": 0.4563,
+      "importance_score": 0.75,
+      "combined_score": 0.825,
+      "norm_relevance": 0.75,
+      "norm_importance": 1.0
+    },
+    {
+      "document": "SystemDesignInterview.pdf",
+      "section": "Where to put the rate limiter?",
+      "page": 53,
+      "summary": "Intuitively, you can implement a rate limiter at either the client or server-side. • Client-side implementation.",
+      "keywords": [
+        "our API",
+        "the server",
+        "a few general guidelines",
+        "ourselves",
+        "your current technology stack",
+        "how rate",
+        "server-side"
+      ],
+      "relevance_score": 0.4559,
+      "importance_score": 0.75,
+      "combined_score": 0.8245,
+      "norm_relevance": 0.7493,
+      "norm_importance": 1.0
+    },
+    {
+      "document": "SystemDesignInterview.pdf",
+      "section": "Upload flow",
+      "page": 257,
+      "summary": "Let us discuss what happens when a client uploads a file. To better understand the flow, we draw the sequence diagram as shown in Figure 15-14.",
+      "keywords": [
+        "a file",
+        "them",
+        "metadata DB",
+        "a request",
+        "parallel",
+        "relevant clients",
+        "the content"
+      ],
+      "relevance_score": 0.4556,
+      "importance_score": 0.75,
+      "combined_score": 0.8242,
+      "norm_relevance": 0.7488,
+      "norm_importance": 1.0
+    },
+    {
+      "document": "Linkedin_Posts_2024_Blue.pdf",
+      "section": "15 Open-Source Projects That Changed the World",
+      "page": 137,
+      "summary": "To come up with the list, we tried to look at the overall impact these projects have created on the industry and related technologies. Also, we’ve focused on projects that have led to a big change in the day-to-day lives of many software developers across the world.",
+      "keywords": [
+        "The OS",
+        "-​ Apache HTTP Server",
+        "big data processing and analytics platforms",
+        "The web application",
+        "What",
+        "Redis",
+        "developers"
+      ],
+      "relevance_score": 0.4554,
+      "importance_score": 0.75,
+      "combined_score": 0.8239,
+      "norm_relevance": 0.7484,
+      "norm_importance": 1.0
+    },
+    {
+      "document": "Linkedin_Posts_2024_Blue.pdf",
+      "section": "18 Most-used Linux Commands You Should Know",
+      "page": 301,
+      "summary": "Linux commands are instructions for interacting with the operating system. They help manage files, directories, system processes, and many other aspects of the system.",
+      "keywords": [
+        "🔹vi - Edit files",
+        "many other aspects",
+        "these commands",
+        "You",
+        "command",
+        "rm - Remove files",
+        "a pattern"
+      ],
+      "relevance_score": 0.454,
+      "importance_score": 0.75,
+      "combined_score": 0.8223,
+      "norm_relevance": 0.7462,
+      "norm_importance": 1.0
+    }
+  ]
+}
