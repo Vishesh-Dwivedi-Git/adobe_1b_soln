@@ -19,11 +19,16 @@ RUN pip install --no-cache-dir --trusted-host pypi.python.org -r requirements.tx
 # Download spaCy model (keeping it lightweight)
 RUN python -m spacy download en_core_web_sm
 
-# Copy the source code
-COPY ./src .
+# Copy the source code from src folder
+COPY ./src/* ./
 
-# Create input and output directories
+# The input and output directories should be created at /app level (not src level)
+# since your main.py expects /app/input and /app/output
 RUN mkdir -p /app/input /app/output
+
+# Set environment variables for better performance
+ENV PYTHONUNBUFFERED=1
+ENV PYTHONDONTWRITEBYTECODE=1
 
 # Specify the command to run when the container starts
 CMD ["python", "main.py"]
